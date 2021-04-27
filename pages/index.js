@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingLg}>
         <h1 className="title">
-          Image Optimization with Next.js 10 deployed using Vercel
+          Testing Apr 27 - Image Optimization with Next.js 10 deployed using Vercel
         </h1>
         <h4>
           This is a demo website showing how to optimize images with Next.js 10.  You can find more about this article on my <Link href="https://dev.to/daletom/optimizing-images-with-next-js-vercel-3m3n"><a>Dev.to blog.</a></Link>
